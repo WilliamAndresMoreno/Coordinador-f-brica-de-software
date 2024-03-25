@@ -1,0 +1,7 @@
+C:\Users\ADMIN\TiendaEnLinea\obj\Debug\net8.0\TiendaEnLinea.csproj.AssemblyReference.cache
+C:\Users\ADMIN\TiendaEnLinea\obj\Debug\net8.0\TiendaEnLinea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\TiendaEnLinea\obj\Debug\net8.0\TiendaEnLinea.AssemblyInfoInputs.cache
+C:\Users\ADMIN\TiendaEnLinea\obj\Debug\net8.0\TiendaEnLinea.AssemblyInfo.cs
+C:\Users\ADMIN\TiendaEnLinea\obj\Debug\net8.0\TiendaEnLinea.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\TiendaEnLinea\obj\Debug\net8.0\TiendaEnLinea.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\TiendaEnLinea\obj\Debug\net8.0\TiendaEnLinea.MvcApplicationPartsAssemblyInfo.cache
